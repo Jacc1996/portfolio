@@ -19,7 +19,7 @@
 **Former Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
 - Programming engineering analytics of interest for clients such as Cerrejón and Uniphos Colombia Plant Limited using the IBISA cloud platform developed by Omnicon S.A., through Eclipse IDE with JavaScript, HTML, CSS, XML, and Excel.
 
-![Omnicon_2 Softwares](/Omnicon2_Softwares.png)
+![Omnicon_2 Softwares](/assets/img/Omnicon2_Softwares.png)
 
 **Intership as Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
 - Programming activities in PLC, HMI (Allen-Bradley), and service provision for the client DOW Chemical - Corteva.
