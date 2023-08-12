@@ -7,6 +7,14 @@
 
 ## Work Experience
 
+**Junior Project Engineer @ Omnicon SA (_Oct 2021 - Jan 2023_)**
+- Development activities in HMI environment - Dilution System Project for ODL and Ecopetrol clients at the CPF Cusiana plant. Location: Tauramena, Casanare Department, Colombia.
+- Collection of automation equipment information - Industrial Network Proposal Project for BuenCafe client. Location: Chinchiná, Caldas Department, Colombia.
+- Development activities in HMI, PLC, VBA and database environment for the Automatic Coding Project at Unilever HPC plant. Location: Palmira, Valle del Cauca Department, Colombia.• Maintenance support of the control system for UPL plant. Development and commissioning of the fines transport project for UPF30 and UPF22. Location: Barranquilla, Atlántico Department, Colombia.
+- DCS migration, speed set interface programming for reclaimers, migration to VersaView, and other automation projects for CerroMatoso-South32 client. Location: Montelíbano, Cordoba Department, Colombia.
+- Information collection for water treatment plant and maintenance of control system for Ecopetrol's Orito, Colon and Caribe camps. Location: Orito, Putumayo Department, Colombia.
+- Assistance activities in Industrial Automation elective teaching at the Universidad del Norte (evaluation of final projects and development of virtual machine for classes).
+
 **SCADA Support Engineer @ INAVCO (_Apr 2021 - Sep 2021_)**
 - Maintenance and Support Framework Agreement of the Control System - Promigas
 - Migration of Promigas HMI applications from InTouch 2014 to InTouch 2020,
