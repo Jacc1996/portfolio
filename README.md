@@ -51,9 +51,7 @@ dsd
 
 ## About me:
 - Walk: I walk quite a lot.
-- Favorite Games: Mega Man X5, DBZBT3, Gears of War 3, LoL.
-[Mega Man X5 Opening](https://youtu.be/BYlYHJ4P4A8)
-[DBZBT3](https://youtu.be/CtOvqQZ2GkA)
+- Favorite Games: [Mega Man X5](https://youtu.be/BYlYHJ4P4A8), [DBZBT3](https://youtu.be/CtOvqQZ2GkA), Gears of War 3, LoL.
 - Insane ARAM player: Over 4500 60% WinRate
-- Favorite Songs: 「Courage Soul」
-[Courage Soul](https://youtu.be/3HXMlwkkK6M)
+- Favorite Songs: [「Courage Soul」](https://youtu.be/3HXMlwkkK6M)
+
