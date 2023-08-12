@@ -41,5 +41,10 @@ firmware.
 
 ![Omnicon_1 Softwares](/assets/img/FactoryTalk_View_Logo.jpg)
 
-### Projects:
+## Projects:
 dsd
+
+## Publications:
+1. A New Computational Tool for the Development of Advanced Exergy Analysis and LCA on Single Effect LiBr–H2O Solar Absorption Refrigeration System. MDPI-Lubricants Journal 2021, 9(8), 76. https://doi.org/10.3390/lubricants9080076
+2. Bibliometric Analysis of Research and Study Trends on Alternative Fuels from 2007 to 2017. ESPACIOS Journal - Vol. 39 (No. 24) Year 2018 Page 11. https://www.revistaespacios.com/a18v39n24/18392411.html
+3. Comparative Evaluation of Different Refrigerants on a Vapor Compression Refrigeration System via Exergetic Performance Coefficient Criterion. Contemporary Engineering Sciences Journal. Vol. 10 (No. 14) Year 2017 Pages 691 – 702. https://doi.org/10.12988/ces.2017.7763
