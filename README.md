@@ -7,8 +7,12 @@
 
 ## Work Experience
 
+**Former Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
+- Programming activities in PLC, HMI (Allen-Bradley), and service provision for the client DOW Chemical - Corteva.
+- Supporting member of the engineering staff in test and FAT/SAT completion tasks, assisting in the preparation of HMI using FactoryTalk View ME, updating PlantPAx to PanelViews in the field, upgrading and downgrading PanelViews
+firmware.
 
-** Intership as Control System Configurator Engineer @ Omnicon SA (May 2019 - Nov 2019) **
+**Intership as Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
 - Programming activities in PLC, HMI (Allen-Bradley), and service provision for the client DOW Chemical - Corteva.
 - Supporting member of the engineering staff in test and FAT/SAT completion tasks, assisting in the preparation of HMI using FactoryTalk View ME, updating PlantPAx to PanelViews in the field, upgrading and downgrading PanelViews
 firmware.
