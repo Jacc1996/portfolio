@@ -7,6 +7,13 @@
 
 ## Work Experience
 
+**SCADA Support Engineer @ INAVCO (_Apr 2021 - Sep 2021_)**
+- Maintenance and Support Framework Agreement of the Control System - Promigas
+- Migration of Promigas HMI applications from InTouch 2014 to InTouch 2020,
+- Monthly writing of chromatography to ControlWave Micro RTUs,
+- Licensing and troubleshooting of Aveva and SoftwareToolbox software through scheduling with the supplier (Colsein), 
+- Support in application development and control of changes, monitoring of alarms from different communication media.
+
 **Former Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
 - Programming engineering analytics of interest for clients such as Cerrejón and Uniphos Colombia Plant Limited using the IBISA cloud platform developed by Omnicon S.A., through Eclipse IDE with JavaScript, HTML, CSS, XML, and Excel.
 
