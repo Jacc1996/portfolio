@@ -7,6 +7,11 @@
 
 ## Work Experience
 
+**Project Engineer @ Omnicon SA (_Feb 2023 - Present)**
+- HMI migration activities - Autoclave Update Project for Baxter customer. Location: Cali, Valle del Cauca Department, Colombia.
+- Information gathering and PLC and HMI development for hydraulic generation units - Generation Units Monitoring Project for Celsia customer. Location: Darien, Valle del Cauca Department, Colombia.
+- Installation of HMI & Historian servers and migration of FactoryTalk View SE Stand Alone Client application to Network Distributed - Server Installation Project for Upfield customer. Location: Cali, Valle del Cauca Department, Colombia
+
 **Junior Project Engineer @ Omnicon SA (_Oct 2021 - Jan 2023_)**
 - Development activities in HMI environment - Dilution System Project for ODL and Ecopetrol clients at the CPF Cusiana plant. Location: Tauramena, Casanare Department, Colombia.
 - Collection of automation equipment information - Industrial Network Proposal Project for BuenCafe client. Location: Chinchiná, Caldas Department, Colombia.
