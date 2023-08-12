@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist - Industrial Automation Engineer
 
 ## Education					       		
 - M.S., Data Scientist	| Pontificia Universidad Catolica de Chile | (Ongoing)
