@@ -14,6 +14,8 @@
 - Licensing and troubleshooting of Aveva and SoftwareToolbox software through scheduling with the supplier (Colsein), 
 - Support in application development and control of changes, monitoring of alarms from different communication media.
 
+![Inavco Softwares](/assets/img/INAVCO_Softwares.png)
+
 **Former Control System Configurator Engineer @ Omnicon SA (_May 2019 - Nov 2019_)**
 - Programming engineering analytics of interest for clients such as Cerrejón and Uniphos Colombia Plant Limited using the IBISA cloud platform developed by Omnicon S.A., through Eclipse IDE with JavaScript, HTML, CSS, XML, and Excel.
 
