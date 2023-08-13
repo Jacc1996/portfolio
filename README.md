@@ -52,6 +52,7 @@ dsd
 ## About me:
 - Walk: I walk quite a lot.
 - Favorite Games: [Mega Man X5](https://youtu.be/BYlYHJ4P4A8), [DBZBT3](https://youtu.be/CtOvqQZ2GkA), Gears of War 3, LoL.
-- Insane ARAM player: Over 4500 60% WinRate
+- Insane ARAM player: Near 5k milestone of played arams  
+![ARAMs](/assets/img/Arams.png)
 - Favorite Songs: [「Courage Soul」](https://youtu.be/3HXMlwkkK6M)
 
